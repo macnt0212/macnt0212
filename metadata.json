@@ -1,0 +1,6 @@
+{
+  "name": "Soluciones Integrales - Cotizaciones y Licitaciones",
+  "description": "Plataforma de presupuestos y licitaciones para Soluciones Integrales (CUIT 20-42757904-3). Generación de PDF oficial con numeración automática, tablero Kanban de estados, alertas y notificaciones.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
